@@ -1,4 +1,3 @@
-# README.md
 # Top 3 IT Incidents (AKA “Why I’m An Ops Beast”)
 
 > **TL;DR**  
